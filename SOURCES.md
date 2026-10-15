@@ -41,3 +41,7 @@ These are third-party resources, not original notes by the owner of faultlines. 
 - [Linux Terminal Cheat Sheet, by Manz](https://terminaldelinux.com/terminal/cheatsheets)
 - Discovered as `cheat sheets/TERMINAL.pdf` in the collection above.
 - Reference for terminal commands, permissions, processes and networking. Linked to its original publisher; the PDF is not redistributed here because its redistribution terms were not confirmed.
+
+## ICMC-USP curated references
+
+[Curadoria comentada](notes/icmc-usp-curadoria.md) do acervo [ropalma/ICMC-USP](https://github.com/ropalma/ICMC-USP), snapshot `a5aef33b27adf14769d866cfa249d4a09a10e812` (2019-03-22), revisado em 2026-10-15. Inclui links verificados para aulas e código, prioridades de estudo e limites de atualidade. Nenhum PDF ou código desse acervo foi republicado.
